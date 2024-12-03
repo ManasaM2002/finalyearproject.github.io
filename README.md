@@ -1,14 +1,6 @@
 Application link: 
        http://localhost:8084/VeriDedup/
 
-PROJECT STATEMENT
-• The owner of the data and service provider may have trouble protecting user data 
-from harmful intent if sensitive data is hacked or made public.
-• The proposed solution involves updating ciphertext records for duplicate files using 
-re-encryption keys.
-• These keys enable the cloud server to generate converted ciphertexts, ensuring 
-secure data access for users.
-
 OBJECTIVES
 • The project aims to create a secure system for managing the data on cloud server.
 • It focuses on implementing a scheme for secure deduplication and recovery, 
@@ -38,6 +30,7 @@ MODULES
 • Data user 
 • Authenticated auditor 
 • CSP 
+
 Data owner :
 Data owner register and login then CSP generates OTP which is received and then using 
 that OTP data owner upload files with data will be encrypted and also can view the 
