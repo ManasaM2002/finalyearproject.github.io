@@ -1,2 +1,0 @@
-# finalyearproject.github.io
-finalyearproject
