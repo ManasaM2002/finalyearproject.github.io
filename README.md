@@ -1,3 +1,6 @@
+Application link: 
+       http://localhost:8084/VeriDedup/
+
 PROJECT STATEMENT
 • The owner of the data and service provider may have trouble protecting user data 
 from harmful intent if sensitive data is hacked or made public.
